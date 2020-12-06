@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+button {
+  border-radius: 5px;
+  background-color: dimgrey;
+  color: white;
+  border: 0;
+  width: 10%;
+  height: 100%;
+  font-size: 30px;
+}
+input {
+  background-color: black;
+  border: none;
+  color: white;
+  font-size: 30px;
+}
